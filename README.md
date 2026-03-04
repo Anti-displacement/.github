@@ -1,261 +1,211 @@
-Anti-Displacement
-An Open Initiative for Human Intelligence in the Age of AI
+# Anti-Displacement
 
-AI should amplify human capability — not erase human opportunity.
+### An Open Initiative for Human Intelligence in the Age of AI
 
-🌍 Overview
+> AI should amplify human capability — not erase human opportunity.
 
-Anti-Displacement is an open initiative within OrbitAIspace dedicated to ensuring that artificial intelligence augments human intelligence rather than replaces it.
+Anti-Displacement is an open initiative within **OrbitAIspace** focused on ensuring that artificial intelligence **augments human intelligence rather than replaces it**.
 
-As automation accelerates, millions of workers face uncertainty. This project exists to:
+This project explores frameworks, research, and tools designed to help society adapt to rapid technological change while preserving human value.
 
-Study displacement risks
+---
 
-Design augmentation frameworks
+## 🌍 Overview
 
-Build tools that protect human value
+As AI capabilities accelerate, industries and roles are changing rapidly.  
+Anti-Displacement exists to study and design systems that help humans remain **central to decision-making, creativity, and intelligence**.
 
-Create open systems that strengthen human adaptability
+The initiative focuses on:
 
-This is not an anti-AI movement.
-This is a pro-human intelligence initiative.
+- Mapping **AI displacement risks**
+- Designing **human-AI collaboration frameworks**
+- Building **open tools for workforce resilience**
+- Developing **models for skill adaptation**
 
-🎯 Mission
+This is **not an anti-AI movement**.  
+It is a **pro-human intelligence initiative**.
+
+---
+
+## 🎯 Mission
 
 To develop open frameworks, research, and tools that:
 
-Identify AI displacement risks early
+- Identify potential **AI displacement risks early**
+- Map **vulnerable industries and skill domains**
+- Design **human-AI collaboration models**
+- Build **augmentation-first systems**
+- Empower contributors to shape responsible AI futures
 
-Map vulnerable industries and roles
+---
 
-Design human-AI collaboration models
+## 🧠 Core Philosophy
 
-Create augmentation-first systems
+- AI is inevitable  
+- Displacement is not inevitable  
+- Intelligence is collaborative  
+- Systems must remain **human-centered**  
+- The future of work must be **designed deliberately**
 
-Empower contributors to shape responsible AI futures
+---
 
-🧠 Core Philosophy
+## 🏗 Project Structure
 
-AI is inevitable.
+This initiative is organized into multiple areas:
 
-Displacement is not.
+### 📚 Research
+Research and analysis related to workforce change and AI impact.
 
-Intelligence is collaborative.
+/research
+industry-mapping.md
+displacement-risk-framework.md
 
-Systems must be human-centered.
 
-The future of work must be designed — not assumed.
+### 🧩 Models
+Frameworks and scoring models related to human-AI collaboration.
 
-🏗 Project Structure
 
-Anti-Displacement operates across multiple categories:
+/models
+displacement-score-v0.1.md
+human-augmentation-model.md
 
-1️⃣ Research & Analysis
 
-Industry displacement mapping
+### 📖 Documentation
 
-Skill vulnerability analysis
 
-Workforce transition modeling
+/docs
 
-AI adoption impact studies
 
-2️⃣ Augmentation Frameworks
+Architecture and project documentation.
 
-Human + AI collaboration protocols
+### ⚖ Principles
 
-Decision-support models
 
-Cognitive enhancement tooling
+/principles
 
-Skill amplification systems
 
-3️⃣ Open Tooling
+Core ethical and philosophical foundations of the initiative.
 
-Human intelligence dashboards
+---
 
-Risk scoring systems
+## 🚀 Roadmap
 
-Career resilience tools
+### Phase 0.1 — Foundation
+- Define framework structure
+- Publish initial research documents
+- Open contributor guidelines
 
-Validation systems (via Orbit)
+### Phase 0.2 — Intelligence Mapping
+- Industry risk mapping
+- Skill vulnerability scoring
+- Human augmentation frameworks
 
-4️⃣ Education & Adaptation
+### Phase 0.3 — Tooling
+- Public intelligence dashboards
+- Integration with **OrbitAIspace**
+- Open contribution systems
 
-Skill transition frameworks
+### Phase 1.0 — Global Initiative
+- Research publication
+- Community chapters
+- Open collaboration ecosystem
 
-Learning pathway recommendations
+---
 
-Future-proof capability maps
+## 🛠 Contributing
 
-🔓 Open Source Commitment
+We welcome contributors from many disciplines:
 
-Anti-Displacement is built as an open initiative.
+- AI researchers
+- Engineers
+- Economists
+- Designers
+- Policy thinkers
+- Founders
+- Workforce analysts
 
-We welcome contributors from:
+Ways to contribute:
 
-AI researchers
+1. Fork the repository
+2. Propose ideas through discussions
+3. Submit improvements to research or models
+4. Collaborate openly with the community
 
-Economists
+See **CONTRIBUTING.md** for details.
 
-Engineers
+---
 
-Designers
+## ⚖ Ethical Principles
 
-Policy thinkers
+Anti-Displacement follows several core principles:
 
-Founders
+- No fear-based narratives
+- No anti-technology rhetoric
+- No political polarization
+- Transparency in models and research
+- Human intelligence remains central
 
-Workforce analysts
+---
 
-All frameworks, discussions, and models will be transparent and community-driven.
+## 📊 Why This Matters
 
-🚀 Roadmap
-Phase 0.1 – Foundation
+Without structured human-AI integration, rapid automation may lead to:
 
-Define framework structure
+- Workforce instability
+- Skill erosion
+- Economic inequality
+- Cognitive dependency
+- Rapid role obsolescence
 
-Publish displacement thesis
+This initiative explores ways to ensure:
 
-Open GitHub organization
+- Humans remain **decision makers**
+- AI **amplifies human capability**
+- Work **evolves instead of disappearing**
 
-Launch initial research docs
+---
 
-Phase 0.2 – Intelligence Mapping
+## 🌐 Relationship to OrbitAIspace
 
-Industry risk models
+OrbitAIspace focuses on **structured intelligence systems and startup validation**.
 
-Skill vulnerability scoring
+Anti-Displacement extends this ecosystem into:
 
-Human augmentation taxonomy
+- Workforce resilience
+- Human intelligence research
+- Long-term AI collaboration frameworks
 
-Phase 0.3 – Tooling
+Together they form a **human-first intelligence ecosystem**.
 
-Public dashboard
+---
 
-Integration with Orbit validation system
-
-Contributor submission framework
-
-Phase 1.0 – Global Initiative
-
-Research publication
-
-Community chapters
-
-Open collaboration ecosystem
-
-🛠 Contribution Guidelines
-
-We are looking for:
-
-Research papers
-
-Framework proposals
-
-Model contributions
-
-Data insights
-
-Industry case studies
-
-Human-AI collaboration examples
-
-To contribute:
-
-Fork the repository
-
-Submit a proposal under /proposals
-
-Open a discussion
-
-Collaborate openly
-
-Respect, rigor, and long-term thinking are required.
-
-⚖ Ethical Principles
-
-No fear-based narratives
-
-No anti-technology rhetoric
-
-No political polarization
-
-No closed corporate capture
-
-Transparency in modeling
-
-This initiative is about responsible progress.
-
-📊 Why This Matters
-
-AI advancement without structured human integration can result in:
-
-Workforce instability
-
-Skill erosion
-
-Economic inequality
-
-Cognitive dependency
-
-Rapid role obsolescence
-
-Anti-Displacement seeks to design systems where:
-
-Humans remain decision-makers
-
-AI amplifies judgment
-
-Adaptability becomes measurable
-
-Work evolves — not disappears
-
-🌐 Relationship to OrbitAIspace
-
-OrbitAIspace provides structured validation and intelligence systems.
-
-Anti-Displacement extends this into:
-
-Workforce resilience
-
-Human augmentation research
-
-Long-term intelligence sustainability
-
-Together, they form a broader human-first intelligence ecosystem.
-
-🔮 Long-Term Vision
+## 🔮 Long-Term Vision
 
 We envision a future where:
 
-AI enhances human thinking
-
-Workers adapt faster than automation evolves
-
-Intelligence is collaborative
-
-Systems are designed for continuity, not collapse
+- AI enhances human thinking
+- Workers adapt faster than automation evolves
+- Intelligence becomes collaborative
+- Systems are designed for continuity rather than collapse
 
 Anti-Displacement is the beginning of that architecture.
 
-🤝 Join the Initiative
+---
 
-If you believe AI should empower humanity rather than replace it:
+## 🤝 Join the Initiative
 
-Contribute research
+If you believe AI should **empower humanity rather than replace it**, you can help by:
 
-Propose frameworks
+- Contributing research
+- Proposing frameworks
+- Building open tools
+- Sharing ideas and insights
 
-Build open tools
+---
 
-Share insights
+## 📜 License
 
-The future of human intelligence should be built deliberately.
+Licensed under the **Apache License 2.0**.
 
-📜 License
-
-This project is released under [MIT License] (or choose Apache 2.0 if more serious).
-
-Open for collaboration.
+Open for collaboration.  
 Built for humanity.
